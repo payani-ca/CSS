@@ -1,0 +1,82 @@
+body{
+  margin: 0;
+}
+.intro{
+  background-color: #a6dcef;
+  margin:0;
+  height: 40%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  text-align: center;
+
+}
+h1{
+  color: #01a9b4;
+  font-family: 'Gochi Hand', cursive;
+  font-size: 5.62rem;
+}
+h3{
+  color: #01a9b4;
+  font-family: 'Gochi Hand', cursive;
+  font-size: 1.62rem;
+}
+.books{
+  text-align: center;
+}
+ul{
+  padding-left: 15%;
+  text-align: left;
+  color: #01a9b4;
+}
+p{
+  color: white;
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  width: 10%;
+  border-color: #01a9b4;
+}
+.code{
+  text-align: center;
+  padding: 5%;
+  }
+ol,ul{
+  padding-left: 30%;
+  text-align: left;
+  color: #01a9b4;
+  font-size: 1.3rem;
+
+}
+.table_1{
+  margin: 5% auto;
+  height: 30%;
+  width: 30%;
+  color: #01a9b4;
+  font-size: 1.3rem;
+}
+.time{
+  text-align: center;
+  padding: 5%;
+}
+.Getintouch{
+  background-color: #a6dcef;
+  margin:0;
+  height: 40%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  text-align: center;
+}
+.p_introc{
+  color:#01a9b4;
+}
+.sechalf{
+  margin: 5% auto;
+  height: 30%;
+  width: 30%;
+  color: #01a9b4;
+  font-size: 1.3rem;
+}
